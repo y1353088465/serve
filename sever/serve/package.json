@@ -1,0 +1,11 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "return a file and view in browser",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr Yang",
+  "license": "ISC"
+}
